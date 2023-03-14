@@ -1,0 +1,19 @@
+GET http://localhost:8787/
+
+
+###
+
+GET http://localhost:8787/user/anuwong
+
+
+###
+
+POST http://localhost:8787/user
+Content-Type: application/json
+
+{
+    "username": "anuwong",
+    "name": "anuwong",
+    "address": "bangkok",
+    "bio": "logy"
+}

@@ -1,0 +1,8 @@
+name="decha"
+main="src/index.ts"
+
+compatibility_date = "2022-11-22"
+
+kv_namespaces = [
+  { binding = "AnwamNS", id = "15c48c65000044198e6b969f401702fa", preview_id="4cb636f3b00b439d8ac3a83c7b7bcec2" }
+]
